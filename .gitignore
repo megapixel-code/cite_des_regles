@@ -1,6 +1,3 @@
-.envrc
-shell.nix
-
 # Logs
 logs
 *.log
