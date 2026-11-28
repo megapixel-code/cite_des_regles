@@ -1,7 +1,7 @@
-# run project:
+# Run project:
 
 ```sh
-npm run dev
+./open
 ```
 
 # Dependencies
